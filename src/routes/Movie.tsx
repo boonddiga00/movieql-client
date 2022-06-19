@@ -1,5 +1,5 @@
 function Movie() {
-  return <div>This is Movie Page</div>;
+  return <div>Movie detail</div>;
 }
 
 export default Movie;
